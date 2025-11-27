@@ -1016,7 +1016,7 @@ export default function HomePage() {
                         href="tel:+919876543210"
                         className="text-slate-600 dark:text-slate-400 hover:text-purple-600 dark:hover:text-purple-400 transition-colors"
                       >
-                        +91 98765 43210
+                        +91 1234567890
                       </a>
                       <p className="text-xs text-slate-500 mt-1">
                         Mon-Fri, 9am - 6pm IST
